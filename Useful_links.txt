@@ -1,0 +1,3 @@
+The Peer-to-Peer (P2P) Session Initiation Protocol working group
+(P2PSIP WG) - 
+http://datatracker.ietf.org/wg/p2psip/ 
